@@ -3,7 +3,7 @@
   <img height="180" src="https://lh3.googleusercontent.com/a/ACg8ocLfku2wx1IYuXyAOTXGnUgFokI3T0QfavTJABUXUzDV5DB77fMK=s576-c-no" />
 </div> -->
 
-# 💫 About Me:
+# 💫 About Me
 <h2> I'm Kasidit Nunkong <br/> </h2>
 <h5> 🧑🏻‍💻 I'll be working here as a Full Stack Developer Intern.</h5>
 
