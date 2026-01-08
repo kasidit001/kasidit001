@@ -5,8 +5,8 @@
 
 
 ## 🌐 Socials:
-[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:kasiditdoctype2003@gmail.com) 
-[![linkedin](https://img.shields.io/badge/linkedin-D14836?logo=linkedin&logoColor=white)]([mailto:kasiditdoctype2003@gmail.com](https://www.linkedin.com/in/kasidit-nunkhong-73149634a/)) 
+[![email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kasiditdoctype2003@gmail.com)
+[![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kasidit-nunkhong-73149634a/)
 
 ###
 
