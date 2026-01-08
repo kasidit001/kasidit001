@@ -1,13 +1,15 @@
 <div align="center">
 
-<h2> I'm Kasidit <br/> </h2>
-<h5> 🧑🏻‍💻 I'll be working here as a Full Stack Developer Intern.</h5>
+# I'm Kasidit
 
+### 👨‍💻 I'll be working here as a Full Stack Developer Intern.
 
 ## 🌐 Socials:
+
 [![email](https://img.shields.io/badge/EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kasiditdoctype2003@gmail.com)
 [![linkedin](https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kasidit-nunkhong-73149634a/)
 
+</div>
 ###
 
 <picture>
