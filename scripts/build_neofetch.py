@@ -11,7 +11,7 @@ FONT = "ui-monospace,SFMono-Regular,Menlo,Consolas,monospace"
 # ---- edit these -----------------------------------------------------------------------------------------------------------------------
 PROFILE = {
     "Name": "Kasidit Nunkong",
-    "Role": "Full Stack Developer Intern",
+    "Role": "Junior Full Stack Developer",
     "Stack": "Vue · TypeScript · JavaScript · Node.js",
     "Focus": "web apps · real-time features · APIs",
     "Currently": "learning in public, one project at a time",
